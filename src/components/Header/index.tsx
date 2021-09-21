@@ -11,7 +11,7 @@ const Header=()=>{
             <nav>
                 <Link to="/" id="link">
                     <FiArrowLeft color="#fff" size={16}/>
-                    Voltar
+                     <-Voltar
                 </Link>
                 <img src={logo} alt="logo"/>
             </nav>
