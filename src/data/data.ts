@@ -103,8 +103,8 @@ export default [
     },
     {
         number:18,
-        question: 'Em que clube joga o Atleta Moçambicano Mexer',
-        answers: ['Nacional Madeira', 'Granada FC', 'Rennes FC', 'FC Bordeus'],
+        question: 'Songo localiza-se na provinvicia de ...',
+        answers: ['Maputo', 'Inhambane', 'Gaza', 'Tete'],
         correct: 4
     },
     {
