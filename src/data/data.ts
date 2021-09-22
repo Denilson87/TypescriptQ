@@ -49,8 +49,8 @@ export default [
     },
     {
         number:9,
-        question: 'Que País foi Campeao Mundial de Futebol em 2018',
-        answers: ['Portugar', 'Alemanha', 'Espanha', 'Franca'],
+        question: 'Lisboa é capital de que pais?',
+        answers: ['Portugal', 'Alemanha', 'Espanha', 'Franca'],
         correct: 4
     },
     {
