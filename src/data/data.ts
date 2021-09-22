@@ -85,8 +85,8 @@ export default [
     },
     {
         number:15,
-        question: 'O Bairro Albazine na cidade de Maputo faz parte do distrito Urbano ...',
-        answers: ['Katembe', 'Kamubukwana', 'Kamavota', 'Kanyaka'],
+        question: 'Dia 7 de setembro celebra-se ...',
+        answers: ['Acordos gerais de paz', 'Forcas de defesa de mocambique', 'Acordos de lusaka', 'Dia dos herois mocambicanos'],
         correct: 3
     },
     {
