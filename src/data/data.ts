@@ -1,8 +1,8 @@
 export default [
     {
         number:1,
-        question: 'Obstetra é o profissional da saude que cuida ... ',
-        answers: ['Da Pele', 'De Gestantes', 'Da Visao', 'De Fracturas e Lesoes'],
+        question: 'Xai-xai é cidade da provincia de...',
+        answers: ['Inhambane', 'Gaza', 'Cabo Delgado', 'Niassa'],
         correct: 2
     },
     {
