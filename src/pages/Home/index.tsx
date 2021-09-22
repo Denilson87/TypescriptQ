@@ -10,10 +10,10 @@ const Home=()=>{
         <div id="page-home">
             <div>
                 <img src={logo} alt="logo"/>
-                <h2>Vamos nos  divertir  aprendendo novas coisas</h2>
+                <h2>Bem vindos ao jogo, neste jogo poderemos apreender tudo sobre a actualidades e factos fascninantes</h2>
             </div>
             <Link to='/quiz'>
-                <Button text="Vamos"/>
+                <Button text="Começar"/>
             </Link>
            
         </div>
