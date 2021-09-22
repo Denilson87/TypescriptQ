@@ -7,9 +7,9 @@ export default [
     },
     {
         number:2,
-        question: 'Qual foi o cargo de Mario Da Graca Machungo no primeiro governo pos Indepencia',
-        answers: ['Primeiro Ministro', 'Ministro da economia', 'Governador do banco de moçambique', 'Ministro da Industria e Comercio'],
-        correct: 4
+        question: 'Presidente Samora Moises Machel nasceu na provincia de...',
+        answers: ['Inhambane', 'Sofala', 'Gaza', 'Nampula'],
+        correct: 3
     },
     {
         number:3,
