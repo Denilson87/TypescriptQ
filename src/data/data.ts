@@ -91,9 +91,9 @@ export default [
     },
     {
         number:16,
-        question: 'O Bairro Mafalala na cidade de Maputo faz parte  do distrito urbano ...',
-        answers: ['Kamaxaquene', 'Kamavota', 'Kanyaka', 'Kanlamankulu'],
-        correct: 1
+        question: '25 de junho, em mocambique celebra-se =...',
+        answers: ['Dia da crianca', 'Dia da independencia nacional', 'Dia dos herois mocambicanos', 'Dia da FDM'],
+        correct: 2
     },
     {
         number:17,
