@@ -19,8 +19,8 @@ export default [
     },
     {
         number:4,
-        question: 'Vasco da Gama entrou em Moçambique a partir ..',
-        answers: ['De Inhambane', 'Ilha De Moçambique', 'Da Beira', 'Nacala Porto'],
+        question: 'Os portugueses chegaram a mocambique em...',
+        answers: ['1920', '1943', '2021', '1975'],
         correct: 2
     },
     {
